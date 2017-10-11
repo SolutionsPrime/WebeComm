@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="eCommSite.SpecFlow.Feature.Purchase_HPFeature.VerifyUserRegistration" /><Add Test="eCommSite.SpecFlow.Feature.Purchase_HPFeature.VerifyTheSystemSupportsThePurchaseOfItems" /></Playlist>

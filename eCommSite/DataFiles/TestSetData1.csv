@@ -1,0 +1,3 @@
+﻿TestFeature,TestScenario,TestCase,UserName,Password,Product1,comments
+AutoPractice,CreateBasket,CreateOrder,abishai, pasam,prd1,"data is, reaaly good"
+AutoPractice,CreateBasket,DisplayOrder,abishai, pasam,prd1,"data is, good"
